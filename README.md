@@ -140,4 +140,4 @@ Use data structures (struct, arrays) to manage multiple game entities.
 
 Output
 
-
+![Image](https://github.com/user-attachments/assets/cfab5ab5-d0fc-44cb-bd36-a1cddbbcfb75)
